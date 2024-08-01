@@ -1,0 +1,13 @@
+.b1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; 
+}
+.b2{
+    max-width: 100%;
+    background-color: rgb(94, 202, 238);
+}
+.b3{
+    color: white;
+}

@@ -1,0 +1,19 @@
+
+.box-1{
+    background-color: rgb(94, 202, 238);
+}
+.box-3{
+    background-color: rgb(94, 202, 238);
+    height: 20px;
+}
+.child{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; 
+}
+.box-4{
+    background-color: rgb(65, 164, 197);
+    text-align: center;
+    padding-top: 0.0005%;
+}
